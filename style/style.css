@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+
+
+@font-face {
+    font-family: 'manga_temple';
+    src: url(../fonts/manga_temple/mangat.ttf) format(truetype);
+}
+
+
+body{
+    text-align: left;
+    background-color: whitesmoke;
+    color: black;
+}
+
+
+.texto-um{
+    font-family: 'roboto';
+}
+
+.texto-dois{
+    font-family: 'Montserrat';
+}
+
+.texto-tres{
+    font-family: 'manga_temple';
+    
+}
